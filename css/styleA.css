@@ -1,0 +1,29 @@
+h1{
+        text-align: center;
+        color: #0800ff;
+    }
+    h3{
+        text-align: center;
+    }
+    p{
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    #wow{
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    #woo{
+        margin-left: 150px;
+        margin-right: 150px;
+    }
+    span{
+        font-weight: bold;
+        font-size: 30px;
+    }
+    #aaa{
+        border: 2px solid #23f902;
+    }
+    #bbb{
+        border: 2px solid #d9ff00;
+    }
